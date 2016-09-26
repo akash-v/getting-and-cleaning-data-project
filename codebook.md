@@ -1,4 +1,4 @@
-This programs runs in the following steps :
+## This programs runs in the following steps :
 
 1.Downloading the file and saving it in to a folder named DATA
 2.Unzipping the file 
@@ -11,18 +11,13 @@ This programs runs in the following steps :
 9. Creating a new data set with average values of each activity
 10. writing a table 
 
-The following are the vailables used :
+##The following are the vailables used :
 
 x_training, y_ training, subject_training, x_testing, y_testing, subject_testing  <- variables on to which the data is read
-
 training  <- dataset containing merged columns of x,y,subject of training
 testing <- dataset containing merged columns of x,y,subject of testing
-
 data_features <- features values
 activity_labels <- list of activities
-
 data_merge <- merged data set of training and testing
-
 data_sorted <- data set with sorted mean and standard values
-
 data_named <- data set with activities named.
