@@ -13,11 +13,11 @@
 
 ##The following are the vailables used :
 
-x_training, y_ training, subject_training, x_testing, y_testing, subject_testing  <- variables on to which the data is read
-training  <- dataset containing merged columns of x,y,subject of training
-testing <- dataset containing merged columns of x,y,subject of testing
-data_features <- features values
-activity_labels <- list of activities
-data_merge <- merged data set of training and testing
-data_sorted <- data set with sorted mean and standard values
-data_named <- data set with activities named.
+- x_training, y_ training, subject_training, x_testing, y_testing, subject_testing  <- variables on to which the data is read
+- training  <- dataset containing merged columns of x,y,subject of training
+- testing <- dataset containing merged columns of x,y,subject of testing
+- data_features <- features values
+- activity_labels <- list of activities
+- data_merge <- merged data set of training and testing
+- data_sorted <- data set with sorted mean and standard values
+- data_named <- data set with activities named.
