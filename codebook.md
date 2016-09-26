@@ -2,7 +2,6 @@ This programs runs in the following steps :
 
 1.Downloading the file and saving it in to a folder named DATA
 2.Unzipping the file 
-
 3.Reading all the files in the unzipped file in to approprite tables
 4. merging columns of tables to form two data sets namely training and testing
 5. naming the columns of merged tables of training and testing
