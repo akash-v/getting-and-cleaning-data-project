@@ -1,17 +1,13 @@
-## This programs runs in the following steps :
 
 
+## the resulting data consisits of :   180 obs. of  82 variables
 
-##The following are the vailables used :
+## The following signals were used to estimate variables of the feature vector for each pattern, '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-- 'data.frame':   180 obs. of  82 variables:
+## The following are the vailables used :
  $ subjectID                      : int  1 1 1 1 1 1 2 2 2 2 ...
  $ activityID                     : int  1 2 3 4 5 6 1 2 3 4 ...
  $ activity                       : Factor w/ 6 levels "LAYING","SITTING",..: 4 6 5 2 3 1 4 6 5 2 ...
- 
- The following signals were used to estimate variables of the feature vector for each pattern:
-'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
-
  $ tBodyAcc-mean()-X              : num  0.277 0.255 0.289 0.261 0.279 ...
  $ tBodyAcc-mean()-Y              : num  -0.01738 -0.02395 -0.00992 -0.00131 -0.01614 ...
  $ tBodyAcc-mean()-Z              : num  -0.1111 -0.0973 -0.1076 -0.1045 -0.1106 ...
@@ -92,8 +88,8 @@
  $ fBodyBodyGyroJerkMag-std()     : num  -0.382 -0.694 -0.392 -0.987 -0.995 ...
  $ fBodyBodyGyroJerkMag-meanFreq(): num  0.191 0.114 0.19 0.185 0.334 ...
  
-The set of variables that were estimated from these signals are:
+## The set of variables that were estimated from these signals are:
 
-mean: Mean value
+## mean: Mean value
 
-std: Standard deviation
+## std: Standard deviation
